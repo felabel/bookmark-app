@@ -19,7 +19,7 @@ const Download = () => {
                     </div>
                     <div className="dot-svg"></div>
                     <div className="add-btn">
-                        <button className="btn btn-hover">Add & install Extension</button>
+                        <button className="btn btn-hover btn-add-browser">Add & install Extension</button>
 
                     </div>
                 </div>
@@ -32,7 +32,7 @@ const Download = () => {
                     </div>
                     <div className="dot-svg"></div>
                     <div className="add-btn">
-                        <button className="btn btn-hover">Add & install Extension</button>
+                        <button className="btn btn-hover btn-add-browser">Add & install Extension</button>
                         {/* < ButtonHover color="#0a33e7" text="Add & install Extension" textColor="#fff" /> */}
                     </div>
                 </div>
@@ -46,7 +46,7 @@ const Download = () => {
                     </div>
                     <div className="dot-svg"></div>
                     <div className="add-btn">
-                        <button className="btn btn-hover">Add & install Extension</button>
+                        <button className="btn btn-hover btn-add-browser">Add & install Extension</button>
 
                     </div>
                 </div>

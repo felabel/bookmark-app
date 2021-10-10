@@ -35,7 +35,7 @@ const Questions = () => {
                         </div>
                     </div>
                     <div className="btn-div">
-                    <Button text ="More Info" color ="#0a33e7" textColor="#fff" />
+                    <Button text ="More Info" color ="#0a33e7" textColor="#fff" className="btn-phone" style={{padding:"18px 28px", fontSize: "1.1rem"}}/>
                     </div>
                 </div>
                 

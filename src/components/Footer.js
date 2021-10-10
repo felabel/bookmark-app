@@ -23,10 +23,10 @@ const Footer = () => {
                     <Logo />
                     
                     </div>
-                    <div className="footer-links navlinks">
-                    <a href = '/features' >features</a>
-                    <a href = '/pricing' >pricing</a>
-                    <a href = '/contact' >contact</a>
+                    <div className="footer-links navlinks ">
+                        <a href = '/features' >features</a>
+                        <a href = '/pricing' >pricing</a>
+                        <a href = '/contact' >contact</a>
                    
                     
                     </div> 

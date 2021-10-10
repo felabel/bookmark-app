@@ -8,9 +8,10 @@ const Header = () => {
             <div className="wrapper">
                 <div className="logo">
                     <Logo />
-                    <span> X </span>
+                    {/* <span> X </span> */}
+                    <span> menu </span>
                 </div>
-                <div className="navlinks">
+                <div className="navlinks mobile-nav-links">
                     <a href = '/features' >features</a>
                     <a href = '/pricing' >pricing</a>
                     <a href = '/contact' >contact</a>

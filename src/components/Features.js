@@ -13,9 +13,9 @@ const Features = () => {
                 </div>
                 <div className="features-links">
 
-                    <span><a href="http://">simple booking</a></span>
-                    <span><a href="http://">speedy searching</a></span>
-                    <span><a href="http://">easy sharing</a></span>
+                    <span className="span"><a href="http://">simple booking</a></span>
+                    <span className="span"><a href="http://">speedy searching</a></span>
+                    <span className="span"><a href="http://">easy sharing</a></span>
                     
                 </div>
             </div> 
