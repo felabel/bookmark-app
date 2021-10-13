@@ -1,4 +1,3 @@
-import Button from './Button'
 const Showcase = () => {
     return (
         <div className='showcase'>

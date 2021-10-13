@@ -1,4 +1,3 @@
-import Button from './Button'
 import { ReactComponent as Logo} from './logo-bookmark.svg'
 
 const Footer = () => {

@@ -1,7 +1,5 @@
-// import { Link } from 'react-router-dom'
 import { ReactComponent as Logo} from './logo-bookmark.svg'
-// eslint-disable-next-line
-import Button from './Button'
+
 const Header = () => {
     return (
         <header className='navbar'>

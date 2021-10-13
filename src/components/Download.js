@@ -1,5 +1,3 @@
-// import { ReactComponent as Chromelogo} from './LogoChrome.svg'
-// import { ReactComponent as Firefoxlogo} from './LogoFirefox.svg'
 
 const Download = () => {
     return (
